@@ -1,0 +1,2 @@
+#Deros.All rights reserved
+#=========================
